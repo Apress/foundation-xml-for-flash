@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- simpleType elements -->
+	<xsd:element name="name" type="xsd:string"/>
+	<xsd:element name="address" type="xsd:string"/>
+	<xsd:element name="phone" type="xsd:string"/>
+	<!-- attributes -->
+	<xsd:attribute name="id" type="xsd:integer"/>
+	<!-- complexType elements -->
+	<xsd:element name="phoneBook">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="contact" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="contact">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="name"/>
+				<xsd:element ref="address"/>
+				<xsd:element ref="phone"/>
+			</xsd:sequence>
+			<xsd:attribute ref="id" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

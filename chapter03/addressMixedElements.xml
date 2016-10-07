@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneBook>
+	<contact id="1">
+		<name>Sas Jacobs</name>
+		<address>123 Some Street, 
+		  <suburb>Some City</suburb>
+		, Some Country</address>
+		<phone>123 456</phone>
+	</contact>
+	<contact id="2">
+		<name>John Smith</name>
+		<address>4 Another Street, 
+		  <suburb>Another City</suburb>
+		, Another Country</address>
+		<phone>456 789</phone>
+	</contact>
+</phoneBook>

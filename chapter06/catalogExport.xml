@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+	<catalogItem>
+		<itemCode>DW-4412</itemCode>
+		<itemDescription>Sunscreen</itemDescription>
+		<itemNetPrice>3.64</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>4.004</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>ED-4570</itemCode>
+		<itemDescription>Wine cooler</itemDescription>
+		<itemNetPrice>13.45</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>14.795</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>EO-1427</itemCode>
+		<itemDescription>Picnic hamper</itemDescription>
+		<itemNetPrice>25.68</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>28.248</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>IS-5812</itemCode>
+		<itemDescription>Insecticide</itemDescription>
+		<itemNetPrice>13.79</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>15.169</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>PR-5234</itemCode>
+		<itemDescription>Plastic plates</itemDescription>
+		<itemNetPrice>4.78</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>5.258</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>PR-5512</itemCode>
+		<itemDescription>Plastic cutlery</itemDescription>
+		<itemNetPrice>10.75</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>11.825</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>PR-8967</itemCode>
+		<itemDescription>Plastic glasses</itemDescription>
+		<itemNetPrice>6.89</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>7.579</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>RP-0821</itemCode>
+		<itemDescription>Ice packs</itemDescription>
+		<itemNetPrice>12.68</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>13.948</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>WT-4850</itemCode>
+		<itemDescription>Corkscrew</itemDescription>
+		<itemNetPrice>1.78</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>1.958</itemTaxIncPrice>
+	</catalogItem>
+	<catalogItem>
+		<itemCode>WW-1235</itemCode>
+		<itemDescription>Umbrella</itemDescription>
+		<itemNetPrice>4.25</itemNetPrice>
+		<itemTaxRate>0.1</itemTaxRate>
+		<itemTaxIncPrice>4.675</itemTaxIncPrice>
+	</catalogItem>
+</catalog>

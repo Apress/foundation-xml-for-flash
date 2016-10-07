@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE phoneBook[
+	<!ELEMENT phoneBook (contact+)>
+	<!ELEMENT contact (name,address,phone)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT address (#PCDATA)>
+	<!ELEMENT phone (#PCDATA)>
+	<!ATTLIST contact id CDATA #REQUIRED>
+]>
+<phoneBook>
+  <contact id="1">
+    <name>Sas Jacobs</name>
+    <address>123 Some Street, Some City, Some Country</address>
+    <phone>123 456</phone>
+  </contact>
+  <contact id="2">
+    <name>John Smith</name>
+    <address>4 Another Street, Another City, Another Country</address>
+    <phone>456 789</phone>
+  </contact>
+</phoneBook>

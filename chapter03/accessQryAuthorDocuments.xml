@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="accessQryAuthorDocuments.xsd" generated="2005-03-04T18:53:15">
+<qryAuthorDocuments>
+<authorID>1</authorID>
+<AuthorFirstName>Alison</AuthorFirstName>
+<AuthorLastName>Ambrose</AuthorLastName>
+<AuthorOrganization>Organization A</AuthorOrganization>
+<documentID>4</documentID>
+<documentName>Fishing tips</documentName>
+<documentPublishYear>1999</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>1</authorID>
+<AuthorFirstName>Alison</AuthorFirstName>
+<AuthorLastName>Ambrose</AuthorLastName>
+<AuthorOrganization>Organization A</AuthorOrganization>
+<documentID>1</documentID>
+<documentName>Shopping for profit and pleasure</documentName>
+<documentPublishYear>2002</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>2</authorID>
+<AuthorFirstName>Douglas</AuthorFirstName>
+<AuthorLastName>Donaldson</AuthorLastName>
+<AuthorOrganization>Organization B</AuthorOrganization>
+<documentID>5</documentID>
+<documentName>Outstanding dinner parties</documentName>
+<documentPublishYear>2003</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>3</authorID>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentID>3</documentID>
+<documentName>Bikes as an alternative source of transport</documentName>
+<documentPublishYear>2004</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>3</authorID>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentID>6</documentID>
+<documentName>Entertaining ways</documentName>
+<documentPublishYear>2000</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>3</authorID>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentID>7</documentID>
+<documentName>Growing radishes</documentName>
+<documentPublishYear>2001</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>3</authorID>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentID>8</documentID>
+<documentName>Growing tulips</documentName>
+<documentPublishYear>2002</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<authorID>4</authorID>
+<AuthorFirstName>Saul</AuthorFirstName>
+<AuthorLastName>Sorenson</AuthorLastName>
+<AuthorOrganization>Organization D</AuthorOrganization>
+<documentID>2</documentID>
+<documentName>Bike riding for non-bike riders</documentName>
+<documentPublishYear>2004</documentPublishYear>
+</qryAuthorDocuments>
+</dataroot>

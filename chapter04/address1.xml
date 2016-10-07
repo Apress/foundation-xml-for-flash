@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneBook>
+	<contact id="1">
+		<name>Sas Jacobs</name>
+		<address>123 Some Street, Some City, Some Country</address>
+		<phone>123 456</phone>
+	</contact>

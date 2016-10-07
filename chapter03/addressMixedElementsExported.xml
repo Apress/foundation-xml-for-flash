@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phoneBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<contact id="1">
+		<name>Sas Jacobs</name>
+		<address>
+			<suburb>Some City</suburb>
+		</address>
+		<phone>123 456</phone>
+	</contact>
+	<contact id="2">
+		<name>John Smith</name>
+		<address>
+			<suburb>Another City</suburb>
+		</address>
+		<phone>456 789</phone>
+	</contact>
+</phoneBook>

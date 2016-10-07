@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-06-01T17:15:38">
+<qryAuthorDocuments>
+<AuthorFirstName>Alison</AuthorFirstName>
+<AuthorLastName>Ambrose</AuthorLastName>
+<AuthorOrganization>Organization A</AuthorOrganization>
+<documentName>Fishing tips</documentName>
+<documentPublishYear>1999</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Alison</AuthorFirstName>
+<AuthorLastName>Ambrose</AuthorLastName>
+<AuthorOrganization>Organization A</AuthorOrganization>
+<documentName>Shopping for profit and pleasure</documentName>
+<documentPublishYear>2002</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Douglas</AuthorFirstName>
+<AuthorLastName>Donaldson</AuthorLastName>
+<AuthorOrganization>Organization B</AuthorOrganization>
+<documentName>Outstanding dinner parties</documentName>
+<documentPublishYear>2003</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentName>Bikes as an alternative source of transport</documentName>
+<documentPublishYear>2004</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentName>Entertaining ways</documentName>
+<documentPublishYear>2000</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentName>Growing radishes</documentName>
+<documentPublishYear>2001</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+<documentName>Growing tulips</documentName>
+<documentPublishYear>2002</documentPublishYear>
+</qryAuthorDocuments>
+<qryAuthorDocuments>
+<AuthorFirstName>Saul</AuthorFirstName>
+<AuthorLastName>Sorenson</AuthorLastName>
+<AuthorOrganization>Organization D</AuthorOrganization>
+<documentName>Bike riding for non-bike riders</documentName>
+<documentPublishYear>2004</documentPublishYear>
+</qryAuthorDocuments>
+</dataroot>

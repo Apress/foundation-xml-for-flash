@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<photoGallery>
+  <location locationName="Australia">
+    <photo filename="au-busselton.jpg" caption="Busselton Jetty">
+      <![CDATA[The <b>longest</b> wooden jetty in the Southern Hemisphere.]]>
+    </photo>
+    <photo filename="au-perthbelltower.jpg" caption="Perth from Kings Park">
+      <![CDATA[<b>Perth</b> on the Swan River.]]>
+    </photo>  
+    <photo filename="au-water.jpg" caption="Central Australia">
+      <![CDATA[The blue skies of <b>Central Australia</b>.]]>
+    </photo>  
+   </location>
+  <location locationName = "Europe">
+    <photo filename="eu-christianshavn.jpg" caption="Copenhagen">
+      <![CDATA[Christanshavn in  <b>Copenhagen, Denmark</b>.]]>
+    </photo>  
+    <photo filename="eu-santorini.jpg" caption="Santorini">
+      <![CDATA[My favorite <b>Greek</b> Island.]]>
+    </photo>  
+  </location>
+  <location locationName = "South Africa">
+    <photo filename="za-bambam.jpg" caption="Bam Bam">
+      <![CDATA[<b>Bam Bam</b> a very grumpy adolescent elephant.]]>
+    </photo>  
+    <photo filename="za-lions.jpg" caption="Lions at Kapama">
+      <![CDATA[Two sisters about to start hunting.]]>
+    </photo>  
+   <photo filename="za-sunsetwithheron.jpg" caption="Sunset">
+      <![CDATA[Sunset over the South African Bush.]]>
+    </photo>  
+  </location>
+  <location locationName = "UK">
+    <photo filename="uk-highlands.jpg" caption="Scottish Highlands">
+      <![CDATA[<b>Scotland</b> has incredibly beautiful scenery.]]>
+    </photo>  
+    <photo filename="uk-lakes.jpg" caption="Lake District">
+      <![CDATA[The <b>Lake District</b> is also very beautiful.]]>
+    </photo>  
+  </location>
+ <location locationName = "US">
+    <photo filename="us-grandcanyon.jpg" caption="The Grand Canyon">
+      <![CDATA[Flying through the <b>Grand Canyon</b> in a helicopter was an amazing experience.]]>
+    </photo>  
+    <photo filename="us-timessquare.jpg" caption="Times Square">
+      <![CDATA[There is <b>no</b> place in the world like Manhattan.]]>
+    </photo>
+  </location>
+</photoGallery>
+

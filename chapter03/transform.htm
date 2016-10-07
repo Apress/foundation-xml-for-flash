@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>JavaScript Transformation</title>
+	<script type="text/javascript">
+		function transformXML(xmlDoc, xslDoc) {
+			var xmlSourceDoc = new ActiveXObject("Microsoft.XMLDOM");
+			xmlSourceDoc.async = false;
+			xmlSourceDoc.load(xmlDoc);
+			var xslTransformDoc = new ActiveXObject("Microsoft.XMLDOM");
+			xslTransformDoc.async = false;
+			xslTransformDoc.load(xslDoc);
+			return (xmlSourceDoc.transformNode(xslTransformDoc));
+			}
+	</script>
+</head>
+<body>
+	<script type="text/javascript">
+		document.write (transformXML("address_tableXSL.xml", "tableStyle.xsl"));
+	</script>
+</body>
+</html>

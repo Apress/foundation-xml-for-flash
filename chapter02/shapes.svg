@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg>
+  <desc>Shapes</desc>
+  <rect x="5" y="5" width="100" height="50" fill="yellow" />
+  <ellipse cx="200" cy="100" rx="100" ry="40" fill="blue" />
+  <polygon points="110,140 40,300 120,250" fill="green" />
+</svg>

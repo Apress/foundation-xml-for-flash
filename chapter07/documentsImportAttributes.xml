@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allBooks>
+	<book id="10" name="More great bike trips" authorID="4" publishYear="2005" categoryID="5"/>
+</allBooks>

@@ -1,0 +1,29 @@
+h1 {
+    font-size: 16px;
+    color: #0033CC;
+    font-family: Verdana, Arial, sans-serif;
+}
+table {
+	border: solid 1px #0033CC;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+th {
+    padding: 4px;
+	font-weight: bold;
+	text-align: left;
+    font-size: 14px;
+    color: white;
+	background-color: #0033CC;
+    font-family: Verdana, Arial, sans-serif;
+}
+td {
+    padding: 4px;
+	font-weight: normal;
+    font-size: 12px;
+    font-family: Verdana, Arial, sans-serif;
+}
+.shading {
+	background-color: #E0E0E0;
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-06-02T06:29:04">
+<qryBookDetails>
+<bookName>Bike riding for non-bike riders</bookName>
+<authorName>Saul Sorenson</authorName>
+<Organization>Organization D</Organization>
+<publishYear>2004</publishYear>
+<category>Bike riding</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Bikes as an alternative source of transport</bookName>
+<authorName>Lucinda Larcombe</authorName>
+<Organization>Organization C</Organization>
+<publishYear>2004</publishYear>
+<category>Bike riding</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Entertaining ways</bookName>
+<authorName>Lucinda Larcombe</authorName>
+<Organization>Organization C</Organization>
+<publishYear>2000</publishYear>
+<category>Cooking</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Fishing tips</bookName>
+<authorName>Alison Ambrose</authorName>
+<Organization>Organization A</Organization>
+<publishYear>1999</publishYear>
+<category>Fishing</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Growing radishes</bookName>
+<authorName>Lucinda Larcombe</authorName>
+<Organization>Organization C</Organization>
+<publishYear>2001</publishYear>
+<category>Gardening</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Growing tulips</bookName>
+<authorName>Lucinda Larcombe</authorName>
+<Organization>Organization C</Organization>
+<publishYear>2002</publishYear>
+<category>Gardening</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Outstanding dinner parties</bookName>
+<authorName>Douglas Donaldson</authorName>
+<Organization>Organization B</Organization>
+<publishYear>2003</publishYear>
+<category>Cooking</category>
+</qryBookDetails>
+<qryBookDetails>
+<bookName>Shopping for profit and pleasure</bookName>
+<authorName>Alison Ambrose</authorName>
+<Organization>Organization A</Organization>
+<publishYear>2002</publishYear>
+<category>Shopping</category>
+</qryBookDetails>
+</dataroot>

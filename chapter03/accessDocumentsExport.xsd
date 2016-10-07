@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+	<xsd:element name="dataroot">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="tblDocuments" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="tblAuthors" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="tblCategories" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attribute name="generated" type="xsd:dateTime"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="tblDocuments">
+		<xsd:annotation>
+			<xsd:appinfo>
+				<od:index index-name="PrimaryKey" index-key="documentID " primary="yes" unique="yes" clustered="no"/>
+				<od:index index-name="authorID" index-key="authorID " primary="no" unique="no" clustered="no"/>
+				<od:index index-name="categoryID" index-key="categoryID " primary="no" unique="no" clustered="no"/>
+				<od:index index-name="documentID" index-key="documentID " primary="no" unique="no" clustered="no"/>
+				<od:index index-name="tblAuthorstblDocuments" index-key="authorID " primary="no" unique="no" clustered="no"/>
+				<od:index index-name="tblCategoriestblDocuments" index-key="categoryID " primary="no" unique="no" clustered="no"/>
+			</xsd:appinfo>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="documentID" type="xsd:int" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes"/>
+				<xsd:element name="documentName" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value="200"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="authorID" type="xsd:int" minOccurs="0" od:jetType="longinteger" od:sqlSType="int"/>
+				<xsd:element name="documentPublishYear" type="xsd:short" minOccurs="0" od:jetType="integer" od:sqlSType="smallint"/>
+				<xsd:element name="categoryID" type="xsd:int" minOccurs="0" od:jetType="longinteger" od:sqlSType="int"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="tblAuthors">
+		<xsd:annotation>
+			<xsd:appinfo>
+				<od:index index-name="PrimaryKey" index-key="authorID " primary="yes" unique="yes" clustered="no"/>
+				<od:index index-name="authorID" index-key="authorID " primary="no" unique="no" clustered="no"/>
+			</xsd:appinfo>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="authorID" type="xsd:int" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes"/>
+				<xsd:element name="AuthorFirstName" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value="50"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="AuthorLastName" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value="50"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="AuthorOrganization" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value="50"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="tblCategories">
+		<xsd:annotation>
+			<xsd:appinfo>
+				<od:index index-name="PrimaryKey" index-key="categoryID " primary="yes" unique="yes" clustered="no"/>
+				<od:index index-name="categoryID" index-key="categoryID " primary="no" unique="no" clustered="no"/>
+			</xsd:appinfo>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="categoryID" type="xsd:int" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes"/>
+				<xsd:element name="category" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:maxLength value="50"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

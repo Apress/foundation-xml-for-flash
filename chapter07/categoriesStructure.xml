@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-06-05T18:20:46">
+<tblCategories>
+<categoryID>1</categoryID>
+<category>Fishing</category>
+</tblCategories>
+<tblCategories>
+<categoryID>2</categoryID>
+<category>Gardening</category>
+</tblCategories>
+<tblCategories>
+<categoryID>3</categoryID>
+<category>Cooking</category>
+</tblCategories>
+<tblCategories>
+<categoryID>4</categoryID>
+<category>Shopping</category>
+</tblCategories>
+<tblCategories>
+<categoryID>5</categoryID>
+<category>Bike riding</category>
+</tblCategories>
+</dataroot>

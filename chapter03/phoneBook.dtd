@@ -1,0 +1,6 @@
+ <!ELEMENT phoneBook (contact+)>
+ <!ELEMENT contact (name,address,phone)>
+ <!ELEMENT name (#PCDATA)>
+ <!ELEMENT address (#PCDATA)>
+ <!ELEMENT phone (#PCDATA)>
+ <!ATTLIST contact id CDATA #REQUIRED>

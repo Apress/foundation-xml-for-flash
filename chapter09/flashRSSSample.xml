@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/rss/1.0/">
+	<channel rdf:about="http://www.macromedia.com/support/flash/">
+		<title>Flash Notifications</title>
+		<link>http://www.macromedia.com/support/flash/</link>
+		<description>TechNotes, security bulletins, and product update announcements for the Macromedia Flash Player.</description>
+		<items>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://www.macromedia.com/devnet/security/security_zone/mpsb05-04.html?pss=rss_flash_mpsb0504"/>
+				<rdf:li rdf:resource="http://www.macromedia.com/devnet/mx/flash/articles/lipsync_macrochat.html"/>
+			</rdf:Seq>
+		</items>
+	</channel>
+	<item rdf:about="http://www.macromedia.com/devnet/security/security_zone/mpsb05-04.html?pss=rss_flash_mpsb0504">
+		<title>MPSB05-04 ? Potential Security Risk with Macromedia eLicensing Client Activation Code</title>
+		<link>http://www.macromedia.com/devnet/security/security_zone/mpsb05-04.html?pss=rss_flash_mpsb0504</link>
+		<description>(Security Bulletin): Windows versions of the Macromedia installers and eLicensing client install a service with permissions that allow any member of the "Users" group to modify the service settings. This may allow local users to obtain the permissions ...</description>
+		<dc:subject>Security Bulletin</dc:subject>
+	</item>
+	<item rdf:about="http://www.macromedia.com/devnet/mx/flash/articles/lipsync_macrochat.html">
+		<title>Lip Syncing in Flash</title>
+		<link>http://www.macromedia.com/devnet/mx/flash/articles/lipsync_macrochat.html</link>
+		<description>(Developer Center) Learn to perfectly sync animation to dialog with this Macrochat by Chris Georgenes.</description>
+		<dc:subject>Developer Center</dc:subject>
+	</item>
+</rdf:RDF>

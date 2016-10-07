@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneBook>
+	<contact>
+		<id>1</id>
+		<name>Sas Jacobs</name>
+		<phone>123 456</phone>
+	</contact>
+	<contact>
+		<id>2</id>
+		<name>John Smith</name>
+		<phone>456 789</phone>
+	</contact>
+	<contact>
+		<id>3</id>
+		<name>Jo Bloggs</name>
+		<phone>789 123</phone>
+	</contact>
+</phoneBook>

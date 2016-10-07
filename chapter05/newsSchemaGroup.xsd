@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="news">
+	   <xsd:complexType>
+			   <xsd:sequence maxOccurs="unbounded">
+				   <xsd:element name="newsItem">
+						<xsd:complexType>
+								<xsd:sequence>
+								<xsd:element name="newsDate" type="xsd:string"/>
+								<xsd:element name="newsTitle" type="xsd:string"/>
+								<xsd:element name="newsContent" type="xsd:string"/>
+							</xsd:sequence>
+						</xsd:complexType>			   
+				   </xsd:element>
+			   </xsd:sequence>
+	   </xsd:complexType>
+	</xsd:element>
+</xsd:schema>

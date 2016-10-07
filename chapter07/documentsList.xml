@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-06-03T08:01:41">
+<tblDocuments>
+<documentID>1</documentID>
+<documentName>Shopping for profit and pleasure</documentName>
+<authorID>1</authorID>
+<documentPublishYear>2002</documentPublishYear>
+<categoryID>4</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>2</documentID>
+<documentName>Bike riding for non-bike riders</documentName>
+<authorID>4</authorID>
+<documentPublishYear>2004</documentPublishYear>
+<categoryID>5</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>3</documentID>
+<documentName>Bikes as an alternative source of transport</documentName>
+<authorID>3</authorID>
+<documentPublishYear>2004</documentPublishYear>
+<categoryID>5</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>4</documentID>
+<documentName>Fishing tips</documentName>
+<authorID>1</authorID>
+<documentPublishYear>1999</documentPublishYear>
+<categoryID>1</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>5</documentID>
+<documentName>Outstanding dinner parties</documentName>
+<authorID>2</authorID>
+<documentPublishYear>2003</documentPublishYear>
+<categoryID>3</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>6</documentID>
+<documentName>Entertaining ways</documentName>
+<authorID>3</authorID>
+<documentPublishYear>2000</documentPublishYear>
+<categoryID>3</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>7</documentID>
+<documentName>Growing radishes</documentName>
+<authorID>3</authorID>
+<documentPublishYear>2001</documentPublishYear>
+<categoryID>2</categoryID>
+</tblDocuments>
+<tblDocuments>
+<documentID>8</documentID>
+<documentName>Growing tulips</documentName>
+<authorID>3</authorID>
+<documentPublishYear>2002</documentPublishYear>
+<categoryID>2</categoryID>
+</tblDocuments>
+</dataroot>

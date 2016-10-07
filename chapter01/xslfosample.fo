@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+	<fo:layout-master-set>
+		<fo:simple-page-master master-name="simplePage" margin="1in">
+			<fo:region-body/>
+		</fo:simple-page-master>
+	</fo:layout-master-set>
+	<fo:page-sequence master-reference="simplePage">
+		<fo:flow flow-name="xsl-region-body">
+			<fo:block font-color="blue" font-size="16pt" font-family="verdana">
+				A heading
+			</fo:block>
+			<fo:block font-color="black" font-size="12pt" font-family="verdana">
+				Some text in a block
+			</fo:block>
+		</fo:flow>
+	</fo:page-sequence>
+</fo:root>

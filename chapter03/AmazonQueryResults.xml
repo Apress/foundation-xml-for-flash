@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2005-02-23">
+  <OperationRequest>
+    <HTTPHeaders>
+      <Header Name="UserAgent" Value="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)" /> 
+    </HTTPHeaders>
+    <RequestId>05BXE60PQPM6P687J1PA</RequestId> 
+    <Arguments>
+      <Argument Name="Service" Value="AWSECommerceService" /> 
+      <Argument Name="SearchIndex" Value="Books" /> 
+      <Argument Name="Author" Value="Sas Jacobs" /> 
+      <Argument Name="Operation" Value="ItemSearch" /> 
+    </Arguments>
+    <RequestProcessingTime>0.0390307903289795</RequestProcessingTime> 
+  </OperationRequest>
+  <Items>
+    <Request>
+      <IsValid>True</IsValid> 
+      <ItemSearchRequest>
+        <Author>Sas Jacobs</Author> 
+        <SearchIndex>Books</SearchIndex> 
+      </ItemSearchRequest>
+    </Request>
+    <TotalResults>2</TotalResults> 
+    <TotalPages>1</TotalPages> 
+      <Item>
+        <ASIN>8931435061</ASIN> 
+        <DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=8931435061%2526location=/o/ASIN/8931435061%25253F</DetailPageURL> 
+        <ItemAttributes>
+          <Author>Sas Jacobs</Author> 
+          <Author>YoungJin.com</Author> 
+          <Author>Sybex</Author> 
+          <ProductGroup>Book</ProductGroup> 
+          <Title>Flash MX 2004 Accelerated: A Full-Color Guide</Title> 
+        </ItemAttributes>
+      </Item>
+      <Item>
+        <ASIN>8931435045</ASIN> 
+       <DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=8931435045%2526location=/o/ASIN/8931435045%25253F</DetailPageURL> 
+       <ItemAttributes>
+         <Author>Sas Jacobs</Author> 
+         <Author>YoungJin.com</Author> 
+         <Author>Sybex</Author> 
+         <ProductGroup>Book</ProductGroup> 
+         <Title>Illustrator CS Accelerated: A Full-Color Guide</Title> 
+       </ItemAttributes>
+     </Item>
+   </Items>
+ </ItemSearchResponse>

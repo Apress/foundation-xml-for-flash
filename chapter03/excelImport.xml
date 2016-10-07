@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ImportData>
+	<Column>
+		<title>Jan</title>
+		<data>1234</data>
+	</Column>
+	<Column>
+		<title>Feb</title>
+		<data>5678</data>
+	</Column>
+	<Column>
+		<title>Mar</title>
+		<data>9123</data>
+	</Column>
+</ImportData>

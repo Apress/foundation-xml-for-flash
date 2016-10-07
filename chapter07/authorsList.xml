@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-06-03T08:01:09">
+<tblAuthors>
+<authorID>1</authorID>
+<AuthorFirstName>Alison</AuthorFirstName>
+<AuthorLastName>Ambrose</AuthorLastName>
+<AuthorOrganization>Organization A</AuthorOrganization>
+</tblAuthors>
+<tblAuthors>
+<authorID>2</authorID>
+<AuthorFirstName>Douglas</AuthorFirstName>
+<AuthorLastName>Donaldson</AuthorLastName>
+<AuthorOrganization>Organization B</AuthorOrganization>
+</tblAuthors>
+<tblAuthors>
+<authorID>3</authorID>
+<AuthorFirstName>Lucinda</AuthorFirstName>
+<AuthorLastName>Larcombe</AuthorLastName>
+<AuthorOrganization>Organization C</AuthorOrganization>
+</tblAuthors>
+<tblAuthors>
+<authorID>4</authorID>
+<AuthorFirstName>Saul</AuthorFirstName>
+<AuthorLastName>Sorenson</AuthorLastName>
+<AuthorOrganization>Organization D</AuthorOrganization>
+</tblAuthors>
+</dataroot>

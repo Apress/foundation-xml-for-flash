@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="catalog">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element name="catalogItem">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="itemCode" type="xsd:string"/>
+							<xsd:element name="itemDescription" type="xsd:string"/>
+							<xsd:element name="itemNetPrice" type="xsd:decimal"/>
+							<xsd:element name="itemTaxRate" type="xsd:string"/>
+							<xsd:element name="itemTaxIncPrice" type="xsd:decimal"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
